@@ -37,7 +37,7 @@ python main.py
 - Check screen coordinates if timer isn't appearing.
 - 
 ## 📹 Showcase
-[![Watch the video](https://i.imgur.com/JPJrdgk.jpg)](https://streamable.com/j1go86)
+[Click here to watch the video](https://streamable.com/j1go86)
 
 ## 🔗 Acknowledgments
 Based on [itsOwen/valorant-ai-bomb-timer](https://github.com/itsOwen/valorant-ai-bomb-timer) with improvements.
