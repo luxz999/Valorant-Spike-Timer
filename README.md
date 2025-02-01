@@ -37,7 +37,7 @@ python main.py
 - Check screen coordinates if timer isn't appearing.
 - 
 ## 📹 Showcase
-![](https://s13.gifyu.com/images/b2Hgj.gif)
+![](https://s13.gifyu.com/images/b2Hgc.gif)
 [Watch the Full video](https://streamable.com/j1go86)
 
 
