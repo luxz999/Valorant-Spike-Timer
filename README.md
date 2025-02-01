@@ -35,6 +35,9 @@ python main.py
 - Supports only **1920x1080** resolution with a **16:9** aspect ratio.
 - Ensure **Windowed/Borderless mode** in **Valorant** for better detection.
 - Check screen coordinates if timer isn't appearing.
+- 
+## 📹 Showcase
+<iframe src="https://streamable.com/e/j1go86" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## 🔗 Acknowledgments
 Based on [itsOwen/valorant-ai-bomb-timer](https://github.com/itsOwen/valorant-ai-bomb-timer) with improvements.
