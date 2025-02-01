@@ -35,9 +35,10 @@ python main.py
 - Supports only **1920x1080** resolution with a **16:9** aspect ratio.
 - Ensure **Windowed/Borderless mode** in **Valorant** for better detection.
 - Check screen coordinates if timer isn't appearing.
-- 
+ 
 ## 📹 Showcase
 ![](https://s13.gifyu.com/images/b2Hgc.gif)
+
 [Watch the Full video](https://streamable.com/j1go86)
 
 
