@@ -21,15 +21,15 @@ Make sure **Python 3.10+** is installed.
 pip install pillow keyboard
 ```
 ## 🚀 Usage
-1.Run the script:
+1. Run the script:
 ```bash
 python main.py
 ```
-2.The script will monitor the screen for the spike plant
+2. The script will monitor the screen for the spike plant
 
-3.Timer appears when a spike is planted.
+3. Timer appears when a spike is planted.
 
-4.Press F8 to cancel.
+4. Press F8 to cancel.
 
 ## ⚠️ Notes
 - Supports only **1920x1080** resolution with a **16:**9 aspect ratio.
