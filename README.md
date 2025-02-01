@@ -38,6 +38,7 @@ python main.py
 - 
 ## 📹 Showcase
 ![](https://s13.gifyu.com/images/b2Hgj.gif)
+[Watch the Full video](https://streamable.com/j1go86)
 
 
 ## 🔗 Acknowledgments
