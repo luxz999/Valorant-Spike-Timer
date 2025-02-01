@@ -32,7 +32,7 @@ python main.py
 4. Press F8 to cancel.
 
 ## ⚠️ Notes
-- Supports only **1920x1080** resolution with a **16:**9 aspect ratio.
+- Supports only **1920x1080** resolution with a **16:9** aspect ratio.
 - Ensure **Windowed/Borderless mode** in **Valorant** for better detection.
 - Check screen coordinates if timer isn't appearing.
 
